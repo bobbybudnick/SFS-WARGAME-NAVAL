@@ -36,6 +36,7 @@ OpticalStrength from 120 to 12000
 
 change 48 to 200 x2 in salves to increase sm2 ammo - 400  
 change 2 to 20 x2 in salves to increase harpoon ammo - 80
+
 -----
 oliver hazard perry 18049
 
@@ -54,6 +55,7 @@ OpticalStrength from 120 to 1200
 
 sm1 increased to 100  
 harpoon increased to 20
+
 -----
 la fayette 18045
 
