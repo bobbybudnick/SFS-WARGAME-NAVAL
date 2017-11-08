@@ -46,7 +46,7 @@ PorteeMaximaleTBA increased
 PorteeMaximaleHA increased  
 PorteeMaximale increased from unset
 
-harpoon
+harpoon  
 PorteeMaximaleBateaux (ship attack range) to 65000000 from 650000
 
 DetectionTBA from 364000 to 3640000  
